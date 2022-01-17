@@ -1,34 +1,34 @@
-Site	Region	Site Code	Latitude	Longitude	mtDNA-A	mtDNA-B	mtDNA-C	Notes
-Argentina, Playa Bonita Beach	Argentina	ARG	-43.37	-65.05	21	0	0	MV
-Charleston Harbor, SC	Eastern US	NA	32.75	-79.9	7	0	0	GU048371-GU048377
-Charleston Harbor, SC	Eastern US	CHS	32.7513	-79.9	22	0	0	KH,LS
-Chesapeake Bay, Goodwin Islands (VA)	Eastern US	CBV	37.2167	-76.3833	24	0	0	LS
-Millstone Point, CT	Eastern US	NA	41.3	-72.17	18	0	0	GU048353-GU048370
-Sandwich Marina, MA	Eastern US	SND	41.7703841	-70.5036391	18	0	0	KH
-Allan Harbor, RI	Eastern US	ALN	43	-71.4125557	20	0	0	KH
-Shimabira 	Japan	SHI	31.42393	130.16317	0	20	0	ES,CS,RT
-Kaeda	Japan	KAE	31.82067	131.4481	0	8	0	ES,CS,RT
-Wajiro	Japan	WAJ	33.673563	130.426959	0	2	5	ES,CS,RT,SK
-Osaka: Misaka, mouth of Higashi River	Japan	OSA	34.31666667	135.1166667	0	3	17	LS
-Mangoku-ura	Japan	MNG	37	142	0	0	18	SKH,CH,HE,JP
-Matsushima Bay	Japan	SOU	38.352839	141.059694	0	1	22	SKH,CH,HE,JP,ES
-Moune Bay	Japan	MOU	38.9012	142.5	0	1	20	ES,HE,JP
-Elkhorn Slough, CA	Western US	EHS	36.504474	-121.451308	0	0	20	SKH, TK, BK, BH
-San Francisco Bay, CA	Western US	NA	37.72	-122.28	4	63	0	GU048411-GU048477
-San Francisco Bay, CA	Western US	SFB	37.95	-122.5	0	51	0	LS
-Tomales Bay, CA	Western US	TMB	38.17	-122.91	0	0	17	SAKH,NK LS
-Tomales Bay, CA	Western US	NA	38.17	-122.91	0	0	31	GU048478-GU048508
-Bodega Bay, CA	Western US	NA	38.31	-123.05	0	0	2	JX545458-JX45459
-Humboldt Bay, CA	Western US	NA	40.72	-124.24	32	0	1	GU048378-GU048410
-Humboldt Bay, CA	Western US	HUM	40.73333333	-124.2166667	19	0	4	LS
-Coos Bay, OR	Western US	NA	43.41	-124.21	0	0	15	GU048179-GU048193
-Yaquina Bay, OR	Western US	NA	44.62	-124.02	0	0	9	GU048170-GU048178
-Willapa Bay, WA	Western US	NA	46.54	-123.99	1	0	95	GU048257-GU048352
-Willapa Bay, WA	Western US	WIL	46.66666667	-124	0	0	26	LS
-Grays Harbor, WA	Western US	NA	46.95	-124.04	0	0	7	GU048250-GU048256
-Puget Sound, WA	Western US	NA	47.94	-122.53	0	0	56	GU048194-GU048249
-Ampithoecaddi	NA	NA	NA	NA	NA	NA	NA	KP316287
-Ampithoedalli	NA	NA	NA	NA	NA	NA	NA	KP316288
-Ampithoelongimana	NA	NA	NA	NA	NA	NA	NA	KP316293
-Ampithoelacertosa	NA	NA	NA	NA	NA	NA	NA	KP316294
-Ampithoesectimanus	NA	NA	NA	NA	NA	NA	NA	KP316301
+Site	Region	Site.Code	Latitude	Longitude	mtDNA.A	mtDNA.B	mtDNA.C	SNPs	Notes
+Argentina, Playa Bonita Beach	Argentina	ARG	-43.37	-65.05	21	0	0	21	MV
+Charleston Harbor, SC	Eastern US	NA	32.75	-79.9	7	0	0	NA	GU048371-GU048377
+Charleston Harbor, SC	Eastern US	CHS	32.7513	-79.9	22	0	0	22	KH,LS
+Chesapeake Bay, Goodwin Islands (VA)	Eastern US	CBV	37.2167	-76.3833	24	0	0	22	LS
+Millstone Point, CT	Eastern US	NA	41.3	-72.17	18	0	0	NA	GU048353-GU048370
+Sandwich Marina, MA	Eastern US	SND	41.7703841	-70.5036391	18	0	0	18	KH
+Allan Harbor, RI	Eastern US	ALN	43	-71.4125557	20	0	0	20	KH
+Shimabira 	Japan	SHI	31.42393	130.16317	0	20	0	20	ES,CS,RT
+Kaeda	Japan	KAE	31.82067	131.4481	0	8	0	8	ES,CS,RT
+Wajiro	Japan	WAJ	33.673563	130.426959	0	2	5	7	ES,CS,RT,SK
+Osaka: Misaka, mouth of Higashi River	Japan	OSA	34.31666667	135.1166667	0	3	17	20	LS
+Mangoku-ura	Japan	MNG	37	142	0	0	18	20	SKH,CH,HE,JP
+Matsushima Bay	Japan	SOU	38.352839	141.059694	0	1	22	23	SKH,CH,HE,JP,ES
+Moune Bay	Japan	MOU	38.9012	142.5	0	1	20	21	ES,HE,JP
+Elkhorn Slough, CA	Western US	EHS	36.504474	-121.451308	0	0	20	20	SKH, TK, BK, BH
+San Francisco Bay, CA	Western US	NA	37.72	-122.28	4	63	0	NA	GU048411-GU048477
+San Francisco Bay, CA	Western US	SFB	37.95	-122.5	0	51	0	51	LS
+Tomales Bay, CA	Western US	TMB	38.17	-122.91	0	0	17	17	SAKH,NK LS
+Tomales Bay, CA	Western US	NA	38.17	-122.91	0	0	31	NA	GU048478-GU048508
+Bodega Bay, CA	Western US	NA	38.31	-123.05	0	0	2	NA	JX545458-JX45459
+Humboldt Bay, CA	Western US	NA	40.72	-124.24	32	0	1	NA	GU048378-GU048410
+Humboldt Bay, CA	Western US	HUM	40.73333333	-124.2166667	19	0	4	23	LS
+Coos Bay, OR	Western US	NA	43.41	-124.21	0	0	15	NA	GU048179-GU048193
+Yaquina Bay, OR	Western US	NA	44.62	-124.02	0	0	9	NA	GU048170-GU048178
+Willapa Bay, WA	Western US	NA	46.54	-123.99	1	0	95	NA	GU048257-GU048352
+Willapa Bay, WA	Western US	WIL	46.66666667	-124	0	0	26	16	LS
+Grays Harbor, WA	Western US	NA	46.95	-124.04	0	0	7	NA	GU048250-GU048256
+Puget Sound, WA	Western US	NA	47.94	-122.53	0	0	56	NA	GU048194-GU048249
+Ampithoecaddi	NA	NA	NA	NA	NA	NA	NA	NA	KP316287
+Ampithoedalli	NA	NA	NA	NA	NA	NA	NA	NA	KP316288
+Ampithoelongimana	NA	NA	NA	NA	NA	NA	NA	NA	KP316293
+Ampithoelacertosa	NA	NA	NA	NA	NA	NA	NA	NA	KP316294
+Ampithoesectimanus	NA	NA	NA	NA	NA	NA	NA	NA	KP316301
