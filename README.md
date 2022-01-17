@@ -13,3 +13,7 @@ meta_inds.txt
 
 genotypeLikelihoods.mpgl  
 
+# denovo reference genome  
+
+reference_5_18_17.fasta
+
