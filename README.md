@@ -11,9 +11,13 @@ meta_inds.txt
 
 # SNP data. These are genotype likelihoods ranging from 0-2  
 
-genotypeLikelihoods.mpgl  
+genotypeLikelihoods.txt   
 
 # denovo reference genome  
 
-reference_5_18_17.fasta
+reference_5_18_17.fasta  
+
+# Hybrid plot
+
+HybridFigure.R  
 
