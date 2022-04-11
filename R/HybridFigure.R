@@ -1,6 +1,7 @@
+library("matrixStats");library("lattice")
 ### plot of hybrid zone similar to Fig 3 of Teeter etal 2010.Evolution 64:472–485.
 rm(list=ls())
-library(matrixStats);library(lattice)
+
 pdf("output/HybridFigure.pdf")
 dat <- read.csv('data/gprob3.txt')
 dat <- t(dat[,-1]) # remove indiv IDS

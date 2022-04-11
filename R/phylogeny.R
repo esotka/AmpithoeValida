@@ -1,5 +1,6 @@
+library("ape")
 ### draw Bayes tree and add ML and Bayes support
-library(ape)
+
 rm(list=ls())
 tr <- read.tree("data/bayes.tr")
 hap <- readLines("data/ListOfDuplicateSequences_665ind.txt",n=52)

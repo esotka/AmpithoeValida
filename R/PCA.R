@@ -1,6 +1,7 @@
+library("RColorBrewer");library("adegenet")
 ### plot PCAs
 rm(list=ls())
-library(RColorBrewer);library(adegenet)
+
 dat <- read.csv('data/genotypeLikelihoods.txt',header=T)
 meta <- read.table('data/meta_inds.txt',header=T,sep=",")
 dat2 <- dat[,-1]
